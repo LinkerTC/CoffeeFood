@@ -196,7 +196,7 @@
                     android:indeterminateTintMode="src_in"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintStart_toStartOf="parent"
+                      app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="@+id/recyclerViewPopulate" />
             </androidx.constraintlayout.widget.ConstraintLayout>
 
